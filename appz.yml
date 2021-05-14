@@ -5,8 +5,8 @@ app:
   
 build:
   build_file: pom.xml
-  env:
-  image_template: springboot-v2
+  env: DEV
+  image_template: 
   output_files: target/*.jar
   version: 0.4
   
