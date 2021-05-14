@@ -6,7 +6,7 @@ app:
 build:
   build_file: pom.xml
   env: DEV
-  image_template: 
+  image_template: test
   output_files: target/*.jar
   version: 0.4
   
