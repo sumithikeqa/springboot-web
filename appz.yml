@@ -7,8 +7,8 @@ build:
   build_file: pom.xml
   env: DEV
   image_template: springboot-v2
-  output_files: test
-  version: 0.4
+  output_files: target/*.jar
+  version: 0.5
   
 deploy:
   context: sumithikeqa/DEV
