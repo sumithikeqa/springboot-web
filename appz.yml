@@ -1,5 +1,5 @@
 app:
-  code: SBW
+  code: 
   name: Spring Boot Web
   notify: sumit.bansal@hikeqa.com
   
