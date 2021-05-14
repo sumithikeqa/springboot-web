@@ -7,7 +7,7 @@ build:
   build_file: pom.xml
   env: DEV
   image_template: springboot-v2
-  output_files: 
+  output_files: test
   version: 0.4
   
 deploy:
