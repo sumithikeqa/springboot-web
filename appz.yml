@@ -4,7 +4,7 @@ app:
   notify: sumit.bansal@hikeqa.com
   
 build:
-  build_file: 
+  build_file: test
   env: DEV
   image_template: springboot-v2
   output_files: target/*.jar
