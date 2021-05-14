@@ -1,5 +1,5 @@
 app:
-  code: 
+  code: test_code
   name: Spring Boot Web
   notify: sumit.bansal@hikeqa.com
   
