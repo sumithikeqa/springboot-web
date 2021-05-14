@@ -22,5 +22,5 @@ properties:
   MYSQL_DB_PORT: 3306
   MYSQL_DB_USERNAME: springboot-web
   MYSQL_SPRINGBOOTWEB_PASSWORD:
-    vault: MYSQL_SPRINGBOOTWEB_PASSWORD
+    vault: 
   nano: 77
