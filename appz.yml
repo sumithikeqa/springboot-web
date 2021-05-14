@@ -11,7 +11,7 @@ build:
   version: 0.5
   
 deploy:
-  context: test/DEV
+  context: sumithikeqa/DEV
   port: 8080
   replicas: 1
   
