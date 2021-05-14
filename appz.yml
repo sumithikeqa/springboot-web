@@ -1,6 +1,6 @@
 app:
   code: SBW
-  name: 
+  name: test
   notify: sumit.bansal@hikeqa.com
   
 build:
