@@ -1,6 +1,6 @@
 app:
-  code: test_code
-  name: Spring Boot Web
+  code: SBW
+  name: 
   notify: sumit.bansal@hikeqa.com
   
 build:
