@@ -1,7 +1,7 @@
 app:
   code: SBW
   name: Spring Boot Web
-  notify: test500@yopmail.com
+  notify: sumit.bansal@hikeqa.com
   
 build:
   build_file: pom.xml
