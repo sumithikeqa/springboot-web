@@ -13,7 +13,7 @@ build:
 deploy:
   context: sumithikeqa/DEV
   port: 8080
-  replicas: 
+  replicas: 1
   
 properties:
   title: Spring Boot Web - tuesday
